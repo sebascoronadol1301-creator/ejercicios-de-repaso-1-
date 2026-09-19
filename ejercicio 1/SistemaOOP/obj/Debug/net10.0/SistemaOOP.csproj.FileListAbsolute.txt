@@ -1,0 +1,15 @@
+C:\CPOO\EJ1Compensaciones\SistemaOOP\bin\Debug\net10.0\SistemaOOP.exe
+C:\CPOO\EJ1Compensaciones\SistemaOOP\bin\Debug\net10.0\SistemaOOP.deps.json
+C:\CPOO\EJ1Compensaciones\SistemaOOP\bin\Debug\net10.0\SistemaOOP.runtimeconfig.json
+C:\CPOO\EJ1Compensaciones\SistemaOOP\bin\Debug\net10.0\SistemaOOP.dll
+C:\CPOO\EJ1Compensaciones\SistemaOOP\bin\Debug\net10.0\SistemaOOP.pdb
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\SistemaOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\SistemaOOP.AssemblyInfoInputs.cache
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\SistemaOOP.AssemblyInfo.cs
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\SistemaOOP.csproj.CoreCompileInputs.cache
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\SistemaOOP.dll
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\refint\SistemaOOP.dll
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\SistemaOOP.pdb
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\SistemaOOP.genruntimeconfig.cache
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\ref\SistemaOOP.dll
+C:\CPOO\EJ1Compensaciones\SistemaOOP\obj\Debug\net10.0\SistemaOOP.sourcelink.json
